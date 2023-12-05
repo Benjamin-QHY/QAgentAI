@@ -199,3 +199,15 @@
 - [LangChain 教程播放列表](https://www.youtube.com/playlist?list=PL611FKPtL866MnlDPHvI3KwVGqCB-QJAx)
 - [James Briggs 的 LangChain 播放列表](https://www.youtube.com/watch?v=nE2skSRWTTs&list=PLIUOU7oqGTLieV9uTIFMm6_4PXg-hlN6F)
 - [Greg Kamradt 播放列表](https://www.youtube.com/watch?v=_v_fgW2SkkQ&list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
+## 交流
+
+### 微信公众号
+
+欢迎关注“秋水札记”公众号，获取LangChain最新动态和技术，一起探讨AI商业与技术。
+
+<img src="https://qagentai-blog.oss-cn-qingdao.aliyuncs.com/static/images/qiushuizhaji-wxgzh.jpg" width="260px">
+
+### LangChain社群 
+欢迎加入社群“LangChain - AI编程研习社”，一起交流、一起学习，在AI浪潮中占有一席之地。  
+
+<img src="https://qagentai-blog.oss-cn-qingdao.aliyuncs.com/static/images/qiushui-weixin.jpg" width="260px">
